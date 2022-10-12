@@ -1,0 +1,4 @@
+[ode]
+name = "ODE"
+desc = "Ordinary Differential Equation"
+see = 'PDE'
