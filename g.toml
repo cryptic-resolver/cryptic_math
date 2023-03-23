@@ -1,3 +1,7 @@
 [gcd]
 name = "GCD"
 desc = "Greatest Common Divisor"
+
+[gcf]
+name = "GCF"
+desc = "Greatest Common Factor"
